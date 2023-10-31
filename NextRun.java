@@ -267,7 +267,7 @@ class HyPanel extends JPanel implements ActionListener, MouseListener, KeyListen
             g.setColor(new Color(12,17,41));
             g.fillRect(0,0,1440,900);
             g.setColor(C.menuColor);
-            g.drawString("Insert Title Here?",70,128);
+            g.drawString("NextRun",70,128);
         } else if(gameState==1) {
             g.setColor(Color.BLACK); 
             g.fillRect(0,0,1440,900);
