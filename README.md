@@ -8,4 +8,4 @@ Each player controls a battleship with various weapons with keyboards.
 ![](NextRun_controls.png)
 ![](NextRun_ingame.png)
 
-Programmed by Alexander Jun, 2022
+Programmed by Alexander Jun, Spring 2023
