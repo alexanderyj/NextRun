@@ -1,7 +1,8 @@
 # NextRun
 A spaceship game in Java
 
-Two spaceships battles each other.
+A two player game.
+Each player controls a battleship with various weapons with keyboards. 
 
 ![](NextRun_title.png)
 ![](NextRun_controls.png)
